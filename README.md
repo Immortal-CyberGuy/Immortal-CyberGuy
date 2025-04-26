@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Shubham Garg 👋
 
-# Hi there, I'm Shubham Garg 👋
-
-🚀 2nd Year CSE @ NSUT | Full-Stack Web Developer | Building next-gen tech for real-world impact
+🚀 2nd Year CSE @ NSUT | Full-Stack Web Developer | Java | Building next-gen tech for real-world impact
 
 ---
 
@@ -66,7 +64,7 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡
 _"If your dreams don't scare you, they are too small."_
 
 ---
