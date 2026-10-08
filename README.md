@@ -1,6 +1,6 @@
 ## Hi there, I'm Shubham Garg 👋
 
-🚀 2nd Year CSE @ NSUT | Full-Stack Web Developer | Java | Building next-gen tech for real-world impact
+🚀 4th Year CSE @ NSUT | Full-Stack Web Developer | Java | Building next-gen tech for real-world impact
 
 ---
 
